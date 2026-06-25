@@ -1,0 +1,14 @@
+{
+  "input_dim": 2000,
+  "hidden_dims": [
+    1024,
+    516,
+    256,
+    128,
+    64,
+    32,
+    16
+  ],
+  "output_dim": 1,
+  "activation": "gelu"
+}
