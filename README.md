@@ -23,3 +23,7 @@ Verrà infine generato e mostrato un grafico dei punti trovati.
 Per maggiori dettagli, vedere la relazione allegata.
 
 Il file trovato x.txt è comunque già presente in questa cartella.
+
+EXTRA
+il dataset non è stato inserito nel repository per motivi di dimensione è disponibile al seguente link:  
+https://drive.google.com/file/d/12i0ay86xU2PkNEVgUYjfZbiy2DzThjI8/view?usp=sharing
